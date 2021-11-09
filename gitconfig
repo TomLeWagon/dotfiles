@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tmarwedel@onesubsea.slb.com
+	name = Thomas Marwedel
